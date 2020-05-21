@@ -35,3 +35,4 @@ A2Xms2U21HKMkAeyl5N6KMgFKTPo+rUTQ1sk
 ```
 
 ## Setup
+1.5.0
